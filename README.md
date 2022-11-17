@@ -49,9 +49,21 @@ The following animation shows the web application's appearance and functionality
 
 ## Screenshots
 
+[screenshot 1](Assets/screenshot1.png)
+[screenshot 2](Assets/screenshot2.png)
+[screenshot 3](Assets/screenshot3.png)
+[screenshot 4](Assets/screenshot4.png)
+[screenshot 5](Assets/screenshot5.png)
+[screenshot 6](Assets/screenshot6.png)
 
-- - -
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+### Live Deployed Site Link
+
+
 
 ## Notes
 
+This project was custom made down to even the images used and the underconstruction website linked on the placeholder cards. Canva was useful for the customized "coming soon" header cards as well as the under construction gif used at the top. This website was so fun to make and has been optimized for responsiveness on most devices by using media queries and flexbox elements. 
+
+- - -
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
