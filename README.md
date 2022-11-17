@@ -49,12 +49,12 @@ The following animation shows the web application's appearance and functionality
 
 ## Screenshots
 
-[screenshot 1](Assets/screenshot1.png)
-[screenshot 2](Assets/screenshot2.png)
-[screenshot 3](Assets/screenshot3.png)
-[screenshot 4](Assets/screenshot4.png)
-[screenshot 5](Assets/screenshot5.png)
-[screenshot 6](Assets/screenshot6.png)
+![screenshot 1](./Assets/screenshot1.png)
+![screenshot 2](./Assets/screenshot2.png)
+![screenshot 3](./Assets/screenshot3.png)
+![screenshot 4](./Assets/screenshot4.png)
+![screenshot 5](./Assets/screenshot5.png)
+![screenshot 6](./Assets/screenshot6.png)
 
 
 ### Live Deployed Site Link
