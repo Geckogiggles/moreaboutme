@@ -189,14 +189,23 @@ textarea {
 footer {
   position: absolute;
   margin-top: 0;
-  margin-bottom: 22em;
+  margin-bottom: 22rem;
   border-top: 10px solid #1100ff;
   color: #fbff00;    
 }
 
+#contactmeheader {
+  font-size: 1.5rem;
+  color: white;
+  border: 5px solid #1100ff;
+  padding: 1.5rem;
+}
 .contactme {
-  border: 5px dashed #1100ff;
+  border: 3px dashed #1100ff;
   text-align:center;
+  margin-right:5rem;
+  margin-left: 5rem;
+  padding: 1rem;
 }
 @media screen and (max-width:500px) {
   nav ul {
