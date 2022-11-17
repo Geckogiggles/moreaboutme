@@ -57,8 +57,7 @@ The following animation shows the web application's appearance and functionality
 ![screenshot 6](./Assets/screenshot6.png)
 
 
-### Live Deployed Site Link
-
+### ![Live Deployed Site Link](https://geckogiggles.github.io/moreaboutme/)
 
 
 ## Notes
