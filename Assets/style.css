@@ -124,7 +124,7 @@ img {
 }
 
 .largercard img {
-  width: 80%;
+  width: 60%;
 }
 
 .smallcards {
@@ -135,7 +135,11 @@ img {
 }
 
 .smallcards img{
-  max-width:40%
+  max-width:70%
+}
+
+.cards {
+  width:40%
 }
 
 section {
@@ -191,24 +195,30 @@ footer {
   margin-top: 0;
   margin-bottom: 22rem;
   border-top: 10px solid #1100ff;
-  color: #fbff00;    
+  color: #fbff00;
+  /* display: flex; */
+
 }
 
 #contactmeheader {
   font-size: 1.5rem;
   color: white;
-  border: 5px solid #1100ff;
+  /* border: 5px solid #1100ff; */
   padding: 1.5rem;
 }
 .contactme {
   border: 3px dashed #1100ff;
   text-align:center;
-  margin-right:5rem;
-  margin-left: 5rem;
+  margin-right:auto;
+  margin-left: auto;
   padding: 1rem;
 }
+
 @media screen and (max-width:500px) {
   nav ul {
     font-size: 0.75rem;
+  }
+  footer a {
+    width:80%;
   }
 } 
