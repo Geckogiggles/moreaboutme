@@ -59,7 +59,7 @@ The following animation shows the web application's appearance and functionality
 
 
 ### [Live Deployed Site Link](https://geckogiggles.github.io/moreaboutme/)
-
+https://geckogiggles.github.io/moreaboutme/
 
 ## Notes
 
