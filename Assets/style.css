@@ -221,3 +221,11 @@ footer {
     width:80%;
   }
 } 
+@media screen and (max-width:350px) {
+  nav ul {
+    font-size: 0.1rem;
+  }
+  footer a {
+    width:20%;
+  }
+} 
